@@ -67,9 +67,9 @@ Cochez les cases au fur et à mesure (remplacez `[ ]` par `[x]`) et poussez ce f
 
 ### Étape 0 — Mise en place · Tuto 05
 
-- [ ] 🥉 ROS 2 chargé automatiquement, `ROS_DOMAIN_ID` réglé, talker et listener communiquent
-- [ ] 🥉 Tous les paquets du TP sont présents (boucle de vérification du Tuto 05)
-- [ ] 🥉 Dépôt créé depuis le modèle, enseignant ajouté en collaborateur
+- [X] 🥉 ROS 2 chargé automatiquement, `ROS_DOMAIN_ID` réglé, talker et listener communiquent
+- [X] 🥉 Tous les paquets du TP sont présents (boucle de vérification du Tuto 05)
+- [X] 🥉 Dépôt créé depuis le modèle, enseignant ajouté en collaborateur
 - [ ] 🥉 `ros2 launch tp_moveit_py moveit_py.launch.py` affiche `Vérification réussie`
 - [ ] 🥉 `reponses/etape0.md` complété, tag `etape0` poussé
 
